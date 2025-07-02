@@ -1,46 +1,48 @@
 id,feedback,predicted_category
-1,The classroom is very dirty and needs better cleaning.,Academics
-2,Teachers are very supportive and the syllabus is well structured.,Academics
-3,Hostel food is really bad and needs improvement.,Facilities
-4,The administration process for scholarships is very slow.,Administration
-5,The library should have more updated books.,Facilities
-6,Wi-Fi connectivity in the hostel is very poor.,Facilities
-7,The professors are not punctual and classes start late.,Academics
-8,The playground needs better maintenance and new sports equipment.,Facilities
-9,Lab equipment is outdated and needs replacement.,Facilities
-10,The cafeteria menu lacks healthy food options.,Facilities
-11,The fees payment system is too complicated.,Facilities
-12,The study materials provided are very helpful.,Academics
-13,There are not enough parking spaces for students.,Facilities
-14,The course curriculum needs more practical projects.,Academics
-15,"Cleaning staff are not regular, creating hygiene issues.",Facilities
-16,Exam schedules are not announced on time.,Academics
-17,There is a lack of proper security in the hostels.,Facilities
-18,Seminars and workshops should be organized more frequently.,Facilities
-19,There is a shortage of drinking water points in the campus.,Facilities
-20,The administration office staff are often rude and unresponsive.,Administration
-21,The seating in classrooms is uncomfortable.,Academics
-22,The canteen is overcrowded during lunch hours.,Facilities
-23,The teaching methods are very interactive and engaging.,Academics
-24,Library timings should be extended till late evening.,Facilities
-25,Scholarship application process is very confusing.,Academics
-26,There are no proper signboards inside the campus.,Academics
-27,Students don't get enough opportunities for industrial visits.,Facilities
-28,The computer labs are well equipped and maintained.,Facilities
-29,The hostel rooms are too small for two students.,Facilities
-30,Mess food menu needs more variety.,Facilities
-31,The website often crashes during online fee payment.,Facilities
-32,The sports facilities need to be modernized.,Facilities
-33,More guest lectures from industry experts should be arranged.,Academics
-34,College transport buses are always late.,Academics
-35,Medical facilities on campus are inadequate.,Facilities
-36,The placement cell staff are very supportive and helpful.,Facilities
-37,Practical classes should be conducted more regularly.,Facilities
-38,The auditorium sound system needs upgrading.,Facilities
-39,The Wi-Fi network in classrooms is unreliable.,Academics
-40,There are not enough dustbins around the campus.,Facilities
-41,Course contents are very theoretical and less industry-focused.,Academics
-42,There should be more focus on soft skills training.,Facilities
-43,Faculty members should provide more career guidance.,Facilities
-44,The lawns and gardens are not maintained properly.,Facilities
-45,The administrative office takes too long to process documents.,Administration
+1.0,The classroom is very dirty and needs better cleaning.,Academics
+2.0,Teachers are very supportive and the syllabus is well structured.,Academics
+3.0,Hostel food is really bad and needs improvement.,Facilities
+4.0,The administration process for scholarships is very slow.,Administration
+5.0,The library should have more updated books.,Facilities
+6.0,Wi-Fi connectivity in the hostel is very poor.,Facilities
+7.0,The professors are not punctual and classes start late.,Academics
+8.0,The playground needs better maintenance and new sports equipment.,Facilities
+9.0,Lab equipment is outdated and needs replacement.,Facilities
+10.0,The cafeteria menu lacks healthy food options.,Facilities
+11.0,The fees payment system is too complicated.,Facilities
+12.0,The study materials provided are very helpful.,Academics
+13.0,There are not enough parking spaces for students.,Facilities
+14.0,The course curriculum needs more practical projects.,Academics
+15.0,"Cleaning staff are not regular, creating hygiene issues.",Facilities
+16.0,Exam schedules are not announced on time.,Academics
+17.0,There is a lack of proper security in the hostels.,Facilities
+18.0,Seminars and workshops should be organized more frequently.,Facilities
+19.0,There is a shortage of drinking water points in the campus.,Facilities
+20.0,The administration office staff are often rude and unresponsive.,Administration
+21.0,The seating in classrooms is uncomfortable.,Academics
+22.0,The canteen is overcrowded during lunch hours.,Facilities
+23.0,The teaching methods are very interactive and engaging.,Academics
+24.0,Library timings should be extended till late evening.,Facilities
+25.0,Scholarship application process is very confusing.,Academics
+26.0,There are no proper signboards inside the campus.,Academics
+27.0,Students don't get enough opportunities for industrial visits.,Facilities
+28.0,The computer labs are well equipped and maintained.,Facilities
+29.0,The hostel rooms are too small for two students.,Facilities
+30.0,Mess food menu needs more variety.,Facilities
+31.0,The website often crashes during online fee payment.,Facilities
+32.0,The sports facilities need to be modernized.,Facilities
+33.0,More guest lectures from industry experts should be arranged.,Academics
+34.0,College transport buses are always late.,Academics
+35.0,Medical facilities on campus are inadequate.,Facilities
+36.0,The placement cell staff are very supportive and helpful.,Facilities
+37.0,Practical classes should be conducted more regularly.,Facilities
+38.0,The auditorium sound system needs upgrading.,Facilities
+39.0,The Wi-Fi network in classrooms is unreliable.,Academics
+40.0,There are not enough dustbins around the campus.,Facilities
+41.0,Course contents are very theoretical and less industry-focused.,Academics
+42.0,There should be more focus on soft skills training.,Facilities
+43.0,Faculty members should provide more career guidance.,Facilities
+44.0,The lawns and gardens are not maintained properly.,Facilities
+45.0,The administrative office takes too long to process documents.,Administration
+,The food is good,Facilities
+,The washroom is clean,Facilities
